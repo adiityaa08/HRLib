@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Notes1.txt" />
+  </Folder>
   <Project Path="HRAPP/HRAPP.csproj" Id="b71cc5ab-3f70-4455-862b-398d90e0c502" />
   <Project Path="HRLib/HRLib.csproj" />
 </Solution>
